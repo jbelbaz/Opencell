@@ -1,1 +1,5 @@
-**/input-files/**
+# ignoring opencell.war
+opencell.war
+#ignore db
+import-postgres.sql
+init-user-db.sh
